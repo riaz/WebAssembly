@@ -3,10 +3,13 @@ Harnessing the Speed of C/C++ world in Web
 
 # Requirements
 
-git clone git clone https://github.com/juj/emsdk.git
-cd emsdk
-./emsdk install latest
-./emsdk activate latest
+> git clone git clone https://github.com/juj/emsdk.git
+
+> cd emsdk
+
+> ./emsdk install latest
+
+> ./emsdk activate latest
 
 > $ source ./emsdk_env.sh --build=Release
 
